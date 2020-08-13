@@ -1,0 +1,43 @@
+{
+    "PC":[
+        { 
+            "name":"Reed",
+            "discription":"Tall and handsom",
+            "race":"Half-Elf",
+            "class":"Fighter"
+        },
+        {
+            "name":"Lester",
+            "discription":"short and grubby",
+            "race":"dwarf",
+            "class":"rouge"
+        }
+    ],
+    "NPC":[
+        {
+            "name":"Brian",
+            "discription":"Warm and friendly",
+            "ocupation":"Bar tender",
+            "race":"halfling",
+            "location":{
+        },
+        {
+            "name":"Gremble",
+            "discription":"polite and dumb",
+            "ocupation":"store owner",
+            "race":"Half-Orc"
+        }
+    ],
+    "Location":{
+
+    },
+    "Group":{
+
+    },
+    "class":{
+
+    },
+    "race":{
+
+    }
+}
